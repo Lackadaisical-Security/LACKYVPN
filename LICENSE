@@ -1,0 +1,168 @@
+LACKYVPN OPERATOR-CLASS PRIVACY FRAMEWORK LICENSE
+===============================================
+
+Copyright (c) 2025 Lackadaisical Security
+All rights reserved.
+
+OPERATOR-CLASS SOFTWARE LICENSE AGREEMENT
+
+IMPORTANT: READ THIS LICENSE CAREFULLY BEFORE USING THIS SOFTWARE.
+
+1. DEFINITIONS
+
+"Software" refers to the LACKYVPN framework, including all source code, 
+binaries, documentation, cryptographic implementations, kernel drivers, 
+and associated materials.
+
+"Operator" refers to an individual or organization authorized to use 
+operator-class security software for legitimate purposes.
+
+"Authorized Use" means use by qualified security professionals, 
+researchers, or organizations for lawful privacy protection, security 
+research, or defensive purposes.
+
+2. GRANT OF LICENSE
+
+Subject to the terms and conditions of this license, Lackadaisical 
+Security grants you a limited, non-exclusive, non-transferable license 
+to use the Software for Authorized Use only.
+
+3. PERMITTED USES
+
+You may:
+- Use the Software for legitimate privacy protection
+- Modify the Software for security research purposes
+- Deploy the Software in authorized environments
+- Conduct security audits and penetration testing
+- Use for educational purposes in approved institutions
+
+4. RESTRICTIONS
+
+You may NOT:
+- Use the Software for illegal activities
+- Distribute the Software without explicit written permission
+- Reverse engineer proprietary cryptographic implementations
+- Remove or modify copyright notices
+- Use in production without proper security clearance
+- Deploy in environments subject to export control restrictions
+
+5. CRYPTOGRAPHIC EXPORT CONTROLS
+
+This Software contains cryptographic implementations that may be subject 
+to export control laws and regulations. You are responsible for 
+compliance with all applicable laws.
+
+6. OPERATIONAL SECURITY REQUIREMENTS
+
+Users must:
+- Maintain operational security standards
+- Implement proper access controls
+- Follow secure deployment practices
+- Report security vulnerabilities responsibly
+- Maintain audit logs of Software usage
+
+7. ZERO-DEPENDENCY CRYPTOGRAPHY
+
+The cryptographic implementations in this Software are designed to be 
+zero-dependency for security reasons. Any modifications to cryptographic 
+modules must maintain this principle and undergo security review.
+
+8. WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. 
+LACKADAISICAL SECURITY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+9. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL LACKADAISICAL SECURITY BE LIABLE FOR ANY CLAIM, 
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, 
+OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE 
+OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+10. INDEMNIFICATION
+
+You agree to indemnify and hold harmless Lackadaisical Security from 
+any claims, damages, or liability arising from your use of the Software.
+
+11. COMPLIANCE WITH LAWS
+
+You agree to comply with all applicable laws, regulations, and export 
+control restrictions in your use of the Software.
+
+12. TERMINATION
+
+This license terminates automatically if you violate any terms. Upon 
+termination, you must destroy all copies of the Software and any 
+derived works.
+
+13. SECURITY INCIDENT REPORTING
+
+Any security vulnerabilities discovered in the Software must be 
+reported to security@lackadaisical-security.com within 24 hours of discovery.
+
+14. GOVERNMENT USE
+
+Use of this Software by government entities is subject to additional 
+restrictions and may require special licensing agreements.
+
+15. AUDIT RIGHTS
+
+Lackadaisical Security reserves the right to audit compliance with 
+this license upon reasonable notice.
+
+16. GOVERNING LAW
+
+This license is governed by the laws of [JURISDICTION TO BE SPECIFIED] 
+without regard to conflict of law principles.
+
+17. ENTIRE AGREEMENT
+
+This license constitutes the entire agreement between you and 
+Lackadaisical Security regarding the Software.
+
+18. CONTACT INFORMATION
+
+For licensing inquiries, security reports, or compliance questions:
+
+Lackadaisical Security
+Email: security@lackadaisical-security.com
+PGP Key: [TO BE PROVIDED]
+
+ACKNOWLEDGMENT
+
+By using this Software, you acknowledge that you have read this license, 
+understand it, and agree to be bound by its terms and conditions.
+
+"In the realm of shadows, only the disciplined survive."
+
+---
+
+SPECIAL NOTICES:
+
+CRYPTOGRAPHIC NOTICE: This software contains cryptographic algorithms 
+and implementations that may be considered dual-use technology.
+
+KERNEL-LEVEL NOTICE: This software includes kernel-level drivers and 
+system modifications that require administrator privileges and may 
+affect system stability.
+
+ANTI-FORENSICS NOTICE: This software includes capabilities for secure 
+data deletion and anti-forensic techniques. Use responsibly.
+
+DISTRESS MODE NOTICE: The distress mode functionality is designed for 
+emergency situations only. Understand the implications before activation.
+
+EXPORT CONTROL NOTICE: Export of this software may be restricted by 
+applicable export control laws and regulations.
+
+---
+
+BUILD: LACKYVPN-v1.0-OPERATOR-CLASS
+CLASSIFICATION: CONTROLLED
+DISTRIBUTION: RESTRICTED
+CLEARANCE: REQUIRED
+
+Last Updated: June 8, 2025
+License Version: 1.0
