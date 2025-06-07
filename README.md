@@ -1,4 +1,4 @@
-# LACKYVPN# LACKYVPN - Operator-Class Privacy Framework
+# LACKYVPN - Operator-Class Privacy Framework
 
 ```
 🔥 Built by Lackadaisical Security - Sealed with 10-layer fire 🔥
