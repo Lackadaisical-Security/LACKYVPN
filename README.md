@@ -345,7 +345,7 @@ This is a controlled project. Contributions are limited to authorized security p
 
 ### 📝 **Reporting Security Issues**
 
-- **Email**: security@lackadaisical-security.com
+- **Email**: security@lackadaisical.sec
 - **PGP Key**: [Contact for secure key exchange]
 - **Response Time**: 24 hours for critical vulnerabilities
 - **Disclosure**: Responsible disclosure required
@@ -387,7 +387,7 @@ Sealed with 10-layer cryptographic fire
 
 <div align="center">
 
-**[🔗 Official Website](https://lackadaisical-security.com)** | **[📧 Contact](mailto:security@lackadaisical-security.com)** | **[🔐 Security Reports](https://lackadaisical-security.com)**
+**[🔗 Official Website](https://lackadaisical.sec)** | **[📧 Contact](mailto:security@lackadaisical.sec)** | **[🔐 Security Reports](https://lackadaisical.sec/security)**
 
 *A shadow on the wire, a signal that cannot be seen.*
 
