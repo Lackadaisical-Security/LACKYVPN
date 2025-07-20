@@ -15,7 +15,7 @@
 ### *"Sealed with 10-layer fire"*
 
 [![License: Operator-Class](https://img.shields.io/badge/License-Operator--Class-red.svg)](LICENSE)
-[![Security: Military-Grade](https://img.shields.io/badge/Security-Military--Grade-green.svg)]()
+[![Security: Enterprise Grade](https://img.shields.io/badge/Security-Enterprise--Grade-green.svg)]()
 [![Encryption: Quantum-Safe](https://img.shields.io/badge/Encryption-Quantum--Safe-blue.svg)]()
 [![Status: Classified](https://img.shields.io/badge/Status-Classified-yellow.svg)]()
 
@@ -25,7 +25,7 @@
 
 ## 🎯 Overview
 
-**LACKYVPN** is an **operator-class privacy framework** engineered for professionals who demand the highest levels of anonymity and security. Built from the ground up with zero-dependency cryptographic implementations, this framework provides military-grade protection through a sophisticated 10-layer quad-encryption tunnel around OpenVPN.
+**LACKYVPN** is an **operator-class privacy framework** engineered for professionals who demand the highest levels of anonymity and security. Built from the ground up with zero-dependency cryptographic implementations, this framework provides enterprise-grade protection through a sophisticated 10-layer quad-encryption tunnel around OpenVPN.
 
 ### 🚀 What Makes LACKYVPN Different
 
@@ -68,7 +68,7 @@
 - **UI Camouflage**: Instant transformation to benign application
 - **Panic Triggers**: Multiple activation methods (hotkey, biometric, network)
 - **Deadman Switch**: Automated activation on suspicious conditions
-- **Secure Deletion**: Military-grade data wiping (35-pass Gutmann)
+- **Secure Deletion**: Enterprise-grade data wiping (35-pass Gutmann)
 
 
 ### 🔐 **Hardware Security Integration**
